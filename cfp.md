@@ -44,7 +44,7 @@ All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 ## Submission Guidelines
 Submissions should be at most 8 pages of content, plus unlimited pages for references.
 Accepted papers will be given 1 additional content page, so that reviewers' comments can be taken into account. 
-Please use the official [ARR style files](https://github.com/acl-org/acl-style-files) to format your papers and submit them electronically via our [submission site]().
+Please use the official [ARR style files](https://github.com/acl-org/acl-style-files) to format your papers and submit them electronically via our [submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
 We also allow submissions that are under review in other venues or have preprint versions.
 Especially, you can submit your NAACL 2022 submissions to this workshop as well.
