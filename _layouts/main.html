@@ -33,7 +33,7 @@
             <a class="navbar-brand" href="/">SUKI 2022</a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    {% assign sorted_pages = site.pages | sort:"order" | where:"collection","pages_2020" %}
+                    {% assign sorted_pages = site.pages | sort:"order" | where:"collection","pages_2022" %}
                     {% for p in sorted_pages %}
                     {% if p.title == page.title %}
                     <li class="nav-item active">
