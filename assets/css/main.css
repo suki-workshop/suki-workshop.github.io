@@ -1,0 +1,167 @@
+/*
+ * Globals
+ */
+
+@media (min-width: 48em) {
+  html {
+    font-size: 14px;
+  }
+}
+
+body {
+  font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
+  color: #555;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #333;
+}
+h2 {
+  font-size: 1.8rem;
+}
+
+/* Table spacing */
+table {
+  margin-bottom: 10px;
+}
+td {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+.container {
+  max-width: 60rem;
+}
+
+
+/*
+ * Masthead for nav
+ */
+
+.blog-masthead {
+  margin-bottom: 3rem;
+  background-color: #0a3d84; 
+}
+
+.navbar {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+/* Nav links */
+.nav-link, .navbar-brand {
+  position: relative;
+  padding: 1rem;
+  font-weight: 500;
+  color: #cdddeb;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #fff;
+  background-color: transparent;
+}
+
+/* Active state gets a caret at the bottom */
+.nav-link.active {
+  color: #fff;
+}
+.nav-link.active:after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-left: -.3rem;
+  vertical-align: middle;
+  content: "";
+  border-right: .3rem solid transparent;
+  border-bottom: .3rem solid;
+  border-left: .3rem solid transparent;
+}
+
+
+/*
+ * Blog name and description
+ */
+
+.blog-header {
+  padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+  border-bottom: .05rem solid #eee;
+}
+.blog-title {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: normal;
+}
+.blog-description {
+  font-size: 1.1rem;
+  color: #888;
+}
+
+@media (min-width: 40em) {
+  .blog-title {
+    font-size: 2rem;
+  }
+}
+
+.two-column {
+  list-style-type: disc;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns: 2;
+  list-style-position: inside
+}
+
+/*
+ * Button for abstract and slides
+ */
+.btn-xs {
+  padding: 3px 6px;
+}
+.card {
+  margin-bottom: 20px;
+}
+
+/*
+ * Footer
+ */
+
+.blog-footer {
+  padding: 1rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+.footer-icon {
+  padding: 0 1rem;
+}
+img[alt="Baidu"] {
+  height: 85px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+img[alt="Facebook"] {
+  margin-top: 5px;
+  margin-right: 20px;
+  height: 50px;
+}
+img[alt="Naver"] {
+  margin-top: 15px;
+  height: 100px;
+}

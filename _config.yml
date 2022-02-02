@@ -1,0 +1,19 @@
+---
+port: 4000
+host: 0.0.0.0
+safe: false
+
+exclude: [README.md, .gitignore]
+timezone: null
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Workshop on Structured and Unstructured Knowledge Integration (SUKI)"
+keywords:    "workshop"
+description: "The official website for the Workshop on Structured and Unstructured Knowledge Integration (SUKI)"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
+
+collections:
+  - pages_2022
