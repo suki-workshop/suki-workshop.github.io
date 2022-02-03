@@ -61,7 +61,7 @@ TBD
       <td width="25%"><a href="https://cs.stanford.edu/people/jure/"><img src="assets/images/leskovec.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
-      <td><a href="http://www.cs.cmu.edu/~wcohen/">William Cohen (Cornell)</a></td>
+      <td><a href="http://www.cs.cmu.edu/~wcohen/">William Cohen (Google)</a></td>
       <td><a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji (UIUC)</a></td>
       <td><a href="https://lunadong.com/">Luna Dong (Facebook)</a></td>
       <td><a href="https://cs.stanford.edu/people/jure/">Jure Leskovec (Stanford)</a></td>
