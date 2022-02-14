@@ -11,7 +11,7 @@ World knowledge is distributed across diverse resources in either structured (ta
 
 We seek submissions in two tracks:
 
-<b> Research Track.</b> We welcome submissions on research that broadly relates to combining Structured and Unstructured Knowledge on topics including but not limited to: 
+**Research Track.** We welcome submissions on research that broadly relates to combining Structured and Unstructured Knowledge on topics including but not limited to: 
 - Datasets combining Structured and Unstructured Data
 - Data Augmentation for Structured and Unstructured Data
 - Joint PreTraining for Structured and Unstructured Knowledge
@@ -27,7 +27,7 @@ We seek submissions in two tracks:
 - Human-in-the-loop Evaluation for Models over Structured and Unstructured Knowledge
 - Interpretability for Models over Structured and Unstructured Knowledge
 
-<b> Shared Task Track.</b> We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as workshop submissions.
+**Shared Task Track.** We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as workshop submissions.
 
 ## Important Dates
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
@@ -48,15 +48,9 @@ Please use the official [ARR style files](https://github.com/acl-org/acl-style-f
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
 Please submit through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 
-### Dual Sumbission
-We also allow submissions that are under review in other venues or have preprint versions.
-But please make sure to follow dual submission policies from other venues.
+**Dual Sumbission**: We also allow submissions that are under review in other venues or have preprint versions. But please make sure to follow dual submission policies from other venues.
 <!-- Especially, you can submit your NAACL 2022 submissions to this workshop as well. -->
 
-### Archival vs Non-Archival
-During submission, please also indicate if you want your paper to be archival or non-archival.
-Archival papers, if accepted, will be included in the workshop proceeding, while non-archival will not be included.
-Both archival or non-archival papers, if accepted, will be presented at workshop.
+**Archival vs Non-Archival**: During submission, please also indicate if you want your paper to be archival or non-archival. Archival papers, if accepted, will be included in the workshop proceeding, while non-archival will not be included. Both archival or non-archival papers, if accepted, will be presented at workshop.
 
-### Anonymity Period
-We do not enforce an anonymity period. We allow preprint servers such as arXiv at any point of time.
+**Anonymity Period**: We do not enforce an anonymity period. We allow preprint servers such as arXiv at any point of time.
