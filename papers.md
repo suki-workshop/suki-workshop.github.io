@@ -2,7 +2,7 @@
 layout: main
 title: Accepted Papers
 order: 2
-collection: pages_2022
+collection: pages_2021
 permalink: /papers
 ---
 <!-- Congratulations to all of the authors, and thanks to all of our reviewers for their hard work!
