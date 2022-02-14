@@ -11,7 +11,7 @@ World knowledge is distributed across diverse resources in either structured (ta
 
 We seek submissions in two tracks:
 
-<b> Research track.</b> We welcome submissions on research that broadly relates to combining Structured and Unstructured Knowledge on topics including but not limited to: 
+<b> Research Track.</b> We welcome submissions on research that broadly relates to combining Structured and Unstructured Knowledge on topics including but not limited to: 
 - Datasets combining Structured and Unstructured Data
 - Data Augmentation for Structured and Unstructured Data
 - Joint PreTraining for Structured and Unstructured Knowledge
@@ -27,24 +27,36 @@ We seek submissions in two tracks:
 - Human-in-the-loop Evaluation for Models over Structured and Unstructured Knowledge
 - Interpretability for Models over Structured and Unstructured Knowledge
 
-<b> Shared Task.</b> We plan to host the [UnifiedSKG](https://github.com/HKUNLP/UnifiedSKG) challenge.
+<b> Shared Task Track.</b> We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as workshop submissions.
 
 ## Important Dates
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
 <!-- - **August 21, 2020**:              Submission deadline extended! -->
-- **April 8, 2022**:              Submission deadline
-- **April 9-April 29, 2022**:     Review period
 <!-- - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference) -->
-- **May 6, 2022**:              Notification of acceptance
-- **May 20, 2022**:             Camera-ready version deadline
-- **July 14, 2022**:            Workshop
+- **April 8, 2022**:              Research Track Submission deadline
+- **April 15, 2022**:             Shared Task Track Submission deadline
+- **April 9-April 29, 2022**:     Review period
+- **May 6, 2022**:                Notification of acceptance
+- **May 20, 2022**:               Camera-ready version deadline
 
 All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
 ## Submission Guidelines
-Submissions should be at most 8 pages of content, plus unlimited pages for references.
-Accepted papers will be given 1 additional content page, so that reviewers' comments can be taken into account. 
-Please use the official [ARR style files](https://github.com/acl-org/acl-style-files) to format your papers and submit them electronically via our [submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
+Submissions should have at least 4 pages and at most 8 pages of content, plus unlimited pages for references and appendices.
+Accepted papers will be given 1 additional content page to address reviewers' comments.
+Please use the official [ARR style files](https://github.com/acl-org/acl-style-files) available as an [Overleaf template](https://www.overleaf.com/project/5f64f1fb97c4c50001b60549) to format your papers.
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
+Please submit through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
+
+### Dual Sumbission
 We also allow submissions that are under review in other venues or have preprint versions.
-Especially, you can submit your NAACL 2022 submissions to this workshop as well.
+But please make sure to follow dual submission policies from other venues.
+<!-- Especially, you can submit your NAACL 2022 submissions to this workshop as well. -->
+
+### Archival vs Non-Archival
+During submission, please also indicate if you want your paper to be archival or non-archival.
+Archival papers, if accepted, will be included in the workshop proceeding, while non-archival will not be included.
+Both archival or non-archival papers, if accepted, will be presented at workshop.
+
+### Anonymity Period
+We do not enforce an anonymity period. We allow preprint servers such as arXiv at any point of time.
