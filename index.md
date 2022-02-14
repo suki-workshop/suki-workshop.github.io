@@ -5,6 +5,10 @@ order: 1
 collection: pages_2022
 ---
 
+## Call for Paper
+Our first [call for paper](https://suki-workshop.github.io/cfp) and [shared task](https://suki-workshop.github.io/shared_task) are released!
+Submit your paper by April 8 through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI)!
+
 ## Program Schedule
 
 Thursday July 14, 2022 Pacific Time
