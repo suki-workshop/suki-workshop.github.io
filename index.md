@@ -69,10 +69,14 @@ TBD
     <tr>
       <td width="25%"><a href="https://eisenjulian.github.io/"><img src="assets/images/eisenschlos.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://homes.cs.washington.edu/~hannaneh/"><img src="assets/images/hajishirzi.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://cs.stanford.edu/~pliang/"><img src="assets/images/percy.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://www.cs.tau.ac.il/~joberant/"><img src="assets/images/berant.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="https://eisenjulian.github.io/">Julian Eisenschlos (Google)</a></td>
       <td><a href="https://homes.cs.washington.edu/~hannaneh/">Hanna Hajishirzi (University of Washington)</a></td>
+      <td><a href="https://cs.stanford.edu/~pliang/"> Percy Liang (Stanford)</a></td>
+      <td><a href="http://www.cs.tau.ac.il/~joberant/"> Jonathan Berant (Tel Aviv University/AI2)</a></td>
     </tr>
   </tbody>
 </table>
@@ -109,3 +113,5 @@ TBD
 
 ## Sponsors
 <!-- ![Salesforce]({{ "/assets/images/salesforce_logo.png" | absolute_url }}) -->
+<!-- ![JPM]({{ "/assets/images/JPM_logo.png" | absolute_url }}) -->
+<!-- ![ServiceNow]({{ "/assets/images/servicenow_logo.png" | absolute_url }}) -->
