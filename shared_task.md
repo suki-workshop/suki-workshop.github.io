@@ -13,6 +13,7 @@ We plan to host two shared tasks: UnifiedSKG and FinQA. We accept system descrip
 
 Both shared tasks have the same timelines:
 
+- **Feb 15, 2022**:               Shared Task Launch
 - **April 15, 2022**:             Shared Task Track Submission deadline
 - **April 9-April 29, 2022**:     Review period
 - **May 6, 2022**:                Notification of acceptance
