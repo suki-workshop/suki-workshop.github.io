@@ -8,7 +8,10 @@ permalink: /shared_task
 
 # Call for Shared Task
 
-We plan to host two shared tasks: UnifiedSKG and FinQA. We accept system descriptions of our shared tasks as workshop submissions. Both shared tasks have the same timelines:
+We plan to host two shared tasks: UnifiedSKG and FinQA. We accept system descriptions of our shared tasks as workshop submissions. Please check the [Call for Paper](https://suki-workshop.github.io/cfp) for paper submission details.
+
+
+Both shared tasks have the same timelines:
 
 - **April 15, 2022**:             Shared Task Track Submission deadline
 - **April 9-April 29, 2022**:     Review period
@@ -35,7 +38,11 @@ Our UnifiedSKG shared task have two subtasks focusing on two aspects, ***General
 ## FinQA
 FinQA is a large-scale dataset on answering deep questions over financial data, aiming to automate the analysis of a large corpus of financial documents. Please check our [FinQA paper](https://arxiv.org/pdf/2109.00122.pdf) for more details. The dataset, code and instructions can be found at [Github](https://github.com/czyssrs/FinQA).
 
-The leaderboard is hosted on [codalab](https://codalab.lisn.upsaclay.fr/competitions/1846). Please first submit your results on the FinQA test set to the leaderboard.
 
+The leaderboard is hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/1846). Please first submit your results on the FinQA test set to the leaderboard, and then submit your paper following the [Call for Paper](https://suki-workshop.github.io/cfp). **To be eligible for result archives and consideration for awards, we kindly request you to send the following information to zhiyuchen@cs.ucsb.edu using your main contact email:**
+- Team name.
+- Team members.
+- The username used in CodaLab submissions.
+- The forum link to your paper submission on Openreview.
 
-
+Please check the [FinQA challenge](https://finqasite.github.io/challenge.html) website for more details. 
