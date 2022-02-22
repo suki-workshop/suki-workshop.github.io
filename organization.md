@@ -9,7 +9,7 @@ permalink: /organization
 ## Organizing Committee
 - [Wenhu Chen](https://wenhuchen.github.io/), Google / University of Waterloo
 - [Xinyun Chen](https://jungyhuk.github.io/), UC Berkeley
-- [Zhiyu Chen](https://czyssrs.github.io/), Facebook
+- [Zhiyu Chen](https://czyssrs.github.io/), UCSB
 - [Ziyu Yao](https://ziyuyao.org/), George Mason University
 - [Michihiro Yasunaga](https://cs.stanford.edu/~myasu/), Stanford 
 - [Tao Yu](https://taoyds.github.io/), University of Washington / University of Hong Kong

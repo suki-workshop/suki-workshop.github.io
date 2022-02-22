@@ -104,7 +104,7 @@ TBD
     <tr>
       <td><a href="https://wenhuchen.github.io/">Wenhu Chen (Google/University of Waterloo)</a></td>
       <td><a href="https://jungyhuk.github.io/">Xinyun Chen (UC Berkeley)</a></td>
-      <td><a href="https://czyssrs.github.io/">Zhiyu Chen (Facebook)</a></td>
+      <td><a href="https://czyssrs.github.io/">Zhiyu Chen (UCSB)</a></td>
       <td><a href="https://ziyuyao.org/">Ziyu Yao (George Mason University)</a></td>
     </tr>
     <tr>
