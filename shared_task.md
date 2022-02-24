@@ -25,6 +25,7 @@ All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 [UnifiedSKG](https://github.com/HKUNLP/UnifiedSKG) is a recently proposed framework that unifies and multi-tasks 21 structured knowledge grounding tasks including table/database/knowledge-base/apis semantic parsing, question answering, data-to-text, and factual verification. For this shared task, we consider the following 4 datasets: 
 - [Spider](https://yale-lily.github.io/spider) for database semantic parsing
 - [GrailQA](https://dki-lab.github.io/GrailQA/) for knowledge graph semantic parsing/question answering
+- [WikiTableQuestions](https://ppasupat.github.io/WikiTableQuestions/) for table question answering
 - [SParC](https://yale-lily.github.io/sparc) for multi-turn database semantic parsing
 - [TabFact](https://tabfact.github.io/index.html) for table factual verification.
 
