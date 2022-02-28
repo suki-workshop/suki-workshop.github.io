@@ -137,4 +137,4 @@ TBD
 
 ## Sponsors
 ![Salesforce]({{ "/assets/images/salesforce_logo.png" | absolute_url }})
-![JPM]({{ "/assets/images/JPM_logo.png" | absolute_url }})
+![JPM]({{ "/assets/images/jpm_logo.png" | absolute_url }})
