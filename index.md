@@ -5,12 +5,11 @@ order: 1
 collection: pages_2022
 ---
 
-## Call for Paper
+# Call for Paper
 Our first [call for paper](https://suki-workshop.github.io/cfp) and [shared task](https://suki-workshop.github.io/shared_task) are released!
-
 Submit your paper through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 
-## Important Dates for Research Track
+### Important Dates for Research Track
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
 <!-- - **August 21, 2020**:              Submission deadline extended! -->
 <!-- - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference) -->
@@ -19,7 +18,7 @@ Submit your paper through our [Openreview submission site](https://openreview.ne
 - **May 6, 2022**:                Notification of acceptance
 - **May 20, 2022**:               Camera-ready version deadline
 
-## Important Dates for Non-Archival Shared Task Track
+### Important Dates for Non-Archival Shared Task Track
 - **Feb 15, 2022**:             Shared Task Launch
 - **June 8, 2022**:             Result Submission Deadline
 - **June 15, 2022**:            System Description Submission Deadline
