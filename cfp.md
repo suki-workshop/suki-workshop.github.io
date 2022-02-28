@@ -29,15 +29,19 @@ We seek submissions in two tracks:
 
 **Shared Task Track.** We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as workshop submissions.
 
-## Important Dates
+## Important Dates for Research Track
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
 <!-- - **August 21, 2020**:              Submission deadline extended! -->
 <!-- - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference) -->
 - **April 8, 2022**:              Research Track Submission deadline
-- **April 15, 2022**:             Shared Task Track Submission deadline
 - **April 9-April 29, 2022**:     Review period
 - **May 6, 2022**:                Notification of acceptance
 - **May 20, 2022**:               Camera-ready version deadline
+
+## Important Dates for Non-Archival Shared Task Track
+- **Feb 15, 2022**:             Shared Task Launch
+- **June 8, 2022**:             Result Submission Deadline
+- **June 15, 2022**:            System Description Submission Deadline
 
 All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
