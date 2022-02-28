@@ -27,7 +27,7 @@ We seek submissions in two tracks:
 - Human-in-the-loop Evaluation for Models over Structured and Unstructured Knowledge
 - Interpretability for Models over Structured and Unstructured Knowledge
 
-**Shared Task Track.** We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as workshop submissions.
+**Shared Task Track.** We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as non-archival workshop submissions.
 
 ## Important Dates for Research Track
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
