@@ -7,7 +7,7 @@ permalink: /cfp
 ---
 
 # Call for Papers
-World knowledge is distributed across diverse resources in either structured (tables, lists, graphs, and databases) or unstructured forms (texts, large pretrained language models). Recently, there have been extensive efforts to represent, inject, and ground knowledge in various NLP tasks. Because many downstream applications require the integration of structured and unstructured knowledge, it is essential to design more generalized models to handle multiple sources of knowledge inputs. However, recent NLP progress is mostly focused on dealing with homogeneous external knowledge resource in a single form. This workshop aims to bring researchers from different backgrounds together to discuss challenges and promote solutions in NLP techniques for jointly dealing with structured and unstructured knowledge. This draws wide attention from multiple NLP areas such as Information Extraction, Question Answering, Semantic Parsing, Information Retrieval, Fact Verification, Summarization, Data-to-Text Generation, and Conversational AI.
+World knowledge is distributed across diverse resources in either structured (tables, lists, graphs, and databases) or unstructured forms (texts, large pretrained language models). Recently, there have been extensive efforts to represent, inject, and ground knowledge in various NLP tasks. Because many downstream applications require the integration of both structured and unstructured knowledge, it is essential to design more generalized models to handle multiple sources of knowledge inputs. However, recent NLP progress is mostly focused on dealing with homogeneous external knowledge resource in a single form. This workshop aims to bring researchers from different backgrounds together to discuss challenges and promote solutions in NLP techniques for jointly dealing with structured and unstructured knowledge. This draws wide attention from multiple NLP areas such as Information Extraction, Question Answering, Semantic Parsing, Information Retrieval, Fact Verification, Summarization, Data-to-Text Generation, and Conversational AI.
 
 We seek submissions in two tracks:
 
@@ -29,7 +29,7 @@ We seek submissions in two tracks:
 
 **Shared Task Track.** We plan to host two shared tasks: UnifiedSKG and FinQA. Please check the [shared task](https://suki-workshop.github.io/shared_task) page for more information. We accept system descriptions of our shared tasks as non-archival workshop submissions.
 
-## Important Dates for Research Track
+## Important Dates for the Research Track
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
 <!-- - **August 21, 2020**:              Submission deadline extended! -->
 <!-- - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference) -->
@@ -38,7 +38,7 @@ We seek submissions in two tracks:
 - **May 6, 2022**:                Notification of acceptance
 - **May 20, 2022**:               Camera-ready version deadline
 
-## Important Dates for Non-Archival Shared Task Track
+## Important Dates for the Non-Archival Shared Task Track
 - **Feb 15, 2022**:             Shared Task Launch
 - **June 8, 2022**:             Result Submission Deadline
 - **June 15, 2022**:            System Description Submission Deadline
@@ -52,7 +52,7 @@ Please use the official [ARR style files](https://github.com/acl-org/acl-style-f
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
 Please submit through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 
-**Dual Sumbission**: We also allow submissions that are under review in other venues or have preprint versions. But please make sure to follow dual submission policies from other venues.
+**Dual Sumbission**: We also allow submissions that are under review in other venues or have preprint versions. But please make sure to follow the dual submission policies from the other venues.
 <!-- Especially, you can submit your NAACL 2022 submissions to this workshop as well. -->
 
 **Archival vs Non-Archival**: During submission, please also indicate if you want your paper to be archival or non-archival. Archival papers, if accepted, will be included in the workshop proceeding, while non-archival will not be included. Both archival or non-archival papers, if accepted, will be presented at workshop.
