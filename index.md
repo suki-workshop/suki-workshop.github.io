@@ -9,7 +9,7 @@ collection: pages_2022
 Our first [call for papers](https://suki-workshop.github.io/cfp) and [shared tasks](https://suki-workshop.github.io/shared_task) are released!
 Submit your paper through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 
-### We will have cash awards for shared task winners!
+### We will have awards for shared task winners!
 
 ### Important Dates for the Research Track
 <!-- - <s>**August 14, 2020**:              Submission deadline</s> -->

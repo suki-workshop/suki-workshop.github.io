@@ -8,7 +8,7 @@ permalink: /shared_task
 
 # Shared Tasks
 
-**We will have cash awards for shared task winners!**
+**We will have awards for shared task winners!**
 
 We plan to host two shared tasks: UnifiedSKG and FinQA. We will accept system descriptions of our shared tasks as workshop submissions. Please check the [Call for Papers](https://suki-workshop.github.io/cfp) for paper submission details.
 
