@@ -12,13 +12,11 @@ Submit your paper through our [Openreview submission site](https://openreview.ne
 ### We will have awards for shared task winners!
 
 ### Important Dates for the Research Track
-<!-- - <s>**August 14, 2020**:              Submission deadline</s> -->
-<!-- - **August 21, 2020**:              Submission deadline extended! -->
-<!-- - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference) -->
-- **April 8, 2022**:              Research Track Submission deadline
-- **April 9-April 29, 2022**:     Review period
-- **May 6, 2022**:                Notification of acceptance
-- **May 20, 2022**:               Camera-ready version deadline
+- <s>**April 8, 2022**:              Research Track Submission deadline</s>
+- **April 15, 2022**:              Submission deadline extended!
+- **April 9-May 6, 2022**:         Review period
+- **May 13, 2022**:                Notification of acceptance
+- **May 20, 2022**:                Camera-ready version deadline
 
 ### Important Dates for the Non-Archival Shared Task Track
 - **Feb 15, 2022**:             Shared Task Launch
