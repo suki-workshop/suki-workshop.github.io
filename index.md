@@ -5,9 +5,10 @@ order: 1
 collection: pages_2022
 ---
 
-# Call for Papers
-Our first [call for papers](https://suki-workshop.github.io/cfp) and [shared tasks](https://suki-workshop.github.io/shared_task) are released!
-Submit your paper through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
+# Call for Papers and Shared Tasks
+Our [call for papers](https://suki-workshop.github.io/cfp) and [shared tasks](https://suki-workshop.github.io/shared_task) are released!
+
+### Submit your paper through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 
 ### We will have awards for shared task winners!
 
