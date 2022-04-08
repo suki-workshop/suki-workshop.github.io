@@ -53,7 +53,7 @@ Please use the official [ARR style files](https://github.com/acl-org/acl-style-f
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
 Please submit through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
 
-**Dual Sumbission**: We also allow submissions that are under review in other venues or have preprint versions. But please make sure to follow the dual submission policies from the other venues.
+**Dual Submission**: We also allow submissions that are under review in other venues or have preprint versions. But please make sure to follow the dual submission policies from the other venues.
 <!-- Especially, you can submit your NAACL 2022 submissions to this workshop as well. -->
 
 **Archival vs Non-Archival**: During submission, please also indicate if you want your paper to be archival or non-archival. Archival papers, if accepted, will be included in the workshop proceeding, while non-archival will not be included. Both archival or non-archival papers, if accepted, will be presented at workshop.
