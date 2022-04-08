@@ -34,8 +34,8 @@ We seek submissions in two tracks:
 - **August 21, 2020**:              Submission deadline extended! -->
 <!-- - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference) -->
 - <s>**April 8, 2022**:              Research Track Submission deadline</s>
-- **April 15, 2022**:              Submission deadline extended!
-- **April 9-May 6, 2022**:         Review period
+- **April 15, 2022**:              Research Track Submission deadline extended!
+- **April 15-May 6, 2022**:         Review period
 - **May 13, 2022**:                Notification of acceptance
 - **May 20, 2022**:                Camera-ready version deadline
 
