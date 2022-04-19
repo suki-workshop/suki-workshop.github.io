@@ -37,7 +37,13 @@ Our UnifiedSKG shared task has two subtasks focusing on two aspects, ***Generali
 ## FinQA
 FinQA is a large-scale dataset on answering deep questions over financial data, aiming to automate the analysis of a large corpus of financial documents. Please check our [FinQA paper](https://arxiv.org/pdf/2109.00122.pdf) for more details. The dataset, code and instructions can be found at [Github](https://github.com/czyssrs/FinQA).
 
-The leaderboard is hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/1846). Please first submit your results on the FinQA test set to the leaderboard, and then submit your paper following the [Call for Paper](https://suki-workshop.github.io/cfp). **To be eligible for result archives and consideration for awards, we kindly request you to send the following information to zhiyuchen@cs.ucsb.edu using your main contact email:**
+The final evaluation of the model will be based on the results on the private test set. Please first submit your results to both leaderboards.
+- Public Test: This phase evaluates algorithms on the FinQA public test set where the references are available. A submission needs to consist of results on the entire public test set to be considered as a valid submission.
+The leaderboard for the public test set is hosted here on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/1846).
+- Private Test: This phase evaluates algorithms on the FinQA private test set with all references heldout. A submission needs to consist of results on the entire test set to be considered as a valid submission. This phase is aimed at the final evaluation of the model and one is not allowed to create multiple submissions using multiple teams.
+The leaderboard for the private test set is hosted here on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/4138).
+
+Please first submit your results on the FinQA test set to the leaderboard, and then submit your paper following the [Call for Paper](https://suki-workshop.github.io/cfp). **To be eligible for result archives and consideration for awards, we kindly request you to send the following information to zhiyuchen@cs.ucsb.edu using your main contact email:**
 - Team name.
 - Team members.
 - The username used in CodaLab submissions.
