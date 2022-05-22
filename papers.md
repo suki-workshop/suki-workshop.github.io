@@ -2,7 +2,7 @@
 layout: main
 title: Accepted Papers
 order: 2
-collection: pages_2021
+collection: pages_2022
 permalink: /papers
 ---
 <!-- Congratulations to all of the authors, and thanks to all of our reviewers for their hard work!
@@ -13,8 +13,12 @@ A draft proceedings is available [here](assets/book.pdf). -->
 <!-- QA2Explanation: Generating and Evaluating Explanations for Question Answering Systems over Knowledge Graph<br>
 Saeedeh Shekarpour, Abhishek Nadgeri and Kuldeep Singh<br><br> -->
 
+[Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations](/assets/paper/1.pdf)<br>
+Zhen Han, Ruotong Liao, Beiyan Liu, Yao Zhang, Zifeng Ding, Jindong Gu, Heinz Koeppl, Hinrich Schuetze, Volker Tresp
+<br><br> 
 
-### Presentations from EMNLP and Findings of EMNLP
+
+<!-- ### Presentations from EMNLP and Findings of EMNLP -->
 
 <!-- An Imitation Game for Learning Semantic Parsers from User Interaction<br>
 Ziyu Yao, Yiqi Tang, Scott Wen-tau Yih, Huan Sun, Yu Su<br>

@@ -5,20 +5,7 @@ order: 1
 collection: pages_2022
 ---
 
-# Call for Papers and Shared Tasks
-Our [call for papers](https://suki-workshop.github.io/cfp) and [shared tasks](https://suki-workshop.github.io/shared_task) are released!
-
-### Submit your paper through our [Openreview submission site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/SUKI).
-
 ### We will have awards for shared task winners!
-
-### Important Dates for the Research Track
-- <s>**April 8, 2022**:              Research Track Submission deadline</s>
-- **April 15, 2022**:              Research Track Submission deadline extended!
-- **April 15-May 9, 2022**:         Review period
-- **May 13, 2022**:                Notification of acceptance
-- **May 20, 2022**:                Camera-ready version deadline
-
 ### Important Dates for the Non-Archival Shared Task Track
 - **Feb 15, 2022**:             Shared Task Launch
 - **June 8, 2022**:             Result Submission Deadline
