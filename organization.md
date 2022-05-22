@@ -18,52 +18,50 @@ permalink: /organization
 ## Program Committee
 
 - Alon Albalak,University of California, Santa Barbara
-- Aman Kumar,North Carolina State University
-- Andrew Lyubovsky,CMU, Carnegie Mellon University
+- Andrew Lyubovsky,Carnegie Mellon University
 - Ansong Ni,Yale University
 - Bailin Wang,University of Edinburgh
 - Ben Bogin,Tel Aviv University
 - Chen Henry Wu,Carnegie Mellon University
-- Chia-Hsuan Lee,University of Washington, Seattle
+- Chia-Hsuan Lee,University of Washington
 - David Tresner-Kirsch,Brandeis University
-- Dung Ngoc Thai,Department of Computer Science, University of Massachusetts, Amherst
-- Enrique Noriega-Atala,Computer Science Department, University of Arizona
-- Erica Kido Shimomoto,AIST, National Institute of Advanced Industrial Science and Technology
-- Fahim Faisal,, George Mason University
+- Dung Ngoc Thai,University of Massachusetts, Amherst
+- Enrique Noriega-Atala,University of Arizona
+- Erica Kido Shimomoto, National Institute of Advanced Industrial Science and Technology
+- Fahim Faisal, George Mason University
 - Gyuwan Kim,UC Santa Barbara
 - Haoyu Dong,Microsoft
-- Hiroshi Iida,The University of Tokyo, Tokyo University
-- Ishan Jindal,International Business Machines
+- Hiroshi Iida,The University of Tokyo
+- Ishan Jindal,IBM
 - Jonathan Herzig,Tel Aviv University
 - Li Dong,Microsoft Research
 - Linyong Nan,Yale University
 - Maharshi Gor,University of Maryland, College Park
 - Michael Saxon,UC Santa Barbara
-- Naihao Deng,University of Michigan
+- Naihao Deng,University of Michigan, Ann Arbor
 - Nan Zhang,Pennsylvania State University
 - Nitisha Jain,Hasso Plattner Institute
-- Ohad Rubin,School of Computer Science, Tel Aviv University
 - Ori Yoran,Tel Aviv University
-- Peng Shi,University of Waterloo
 - Qian Liu,Beihang University
 - Raj Ratn Pranesh,Pennsylvania State University
 - Ruiqi Zhong,University of California Berkeley
+- Saurabh Srivastava, George Mason University
 - Shiyang Li,UC Santa Barbara
-- Saurabh Srivastava,George Mason University
 - Sheng Zhang,Amazon
 - Shuaichen Chang,Ohio State University
-- Shuyan Zhou,School of Computer Science, Carnegie Mellon University
+- Shuyan Zhou,Carnegie Mellon University
 - Siddhartha Datta,University of Oxford
 - Tianbao Xie,Harbin Institute of Technology
 - Tianyang Zhao,Pennsylvania State University
 - Torsten Scholak,University of Toronto
-- Vardaan Pahuja,Ohio State University, Columbus
+- Vardaan Pahuja,Ohio State University
 - Vasiliki Kougia,Universität Vienna
-- Vivek Gupta,University of Utah, United States
+- Vivek Gupta,University of Utah
 - Xi Victoria Lin,Facebook
 - Xi Ye,UT Austin
 - Xiang Deng,Ohio State University
 - Xiang Yue,Ohio State University
+- Xianjun Yang,UC Santa Barbara
 - Xinlu Zhang,University of California, Santa Barbara
 - Yilun Zhao,Yale University
 - Yujie Lu,UC Santa Barbara
