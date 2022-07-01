@@ -107,7 +107,7 @@ td {
 }
 .blog-description {
   font-size: 1.1rem;
-  color: #888;
+  color: #000000;
 }
 
 @media (min-width: 40em) {
