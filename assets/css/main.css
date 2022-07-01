@@ -10,7 +10,7 @@
 
 body {
   font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
-  color: #555;
+  color: #000000;
 }
 
 h1, .h1,
@@ -21,7 +21,7 @@ h5, .h5,
 h6, .h6 {
   font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #333;
+  color: #000000;
 }
 h2 {
   font-size: 1.8rem;

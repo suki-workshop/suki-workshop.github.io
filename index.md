@@ -25,7 +25,7 @@ Thursday July 14, 2022 Pacific Time
 <br>
 12:00–12:30 &nbsp;&nbsp;&nbsp; Lunch Break
 <br>
-12:30–1:30 &nbsp;&nbsp;&nbsp; Poster Session
+12:30–&nbsp;1:30 &nbsp;&nbsp;&nbsp; Poster Session
 <br>
 1:30–2:15 &nbsp;&nbsp;&nbsp; Invited Talk: William Cohen.
 <br>
