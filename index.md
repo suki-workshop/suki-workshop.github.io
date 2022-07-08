@@ -19,7 +19,7 @@ Thursday July 14, 2022 Pacific Time
 <br>
 09:45–10:30 &nbsp;&nbsp;&nbsp; Invited Talk: Percy Liang. Beyond Autoregressive Language Models: Retrieval, Diffusion, and Modularity.
 <br>
-10:30–11:15 &nbsp;&nbsp;&nbsp; Invited Talk: Jonathan Berant.
+10:30–11:15 &nbsp;&nbsp;&nbsp; Invited Talk: Jonathan Berant. The Atoms of Knowledge Integration in Question Answering
 <br>
 11:15–12:00 &nbsp;&nbsp;&nbsp; Invited Talk: Hanna Hajishirzi. Toward Knowledge-Rich and Robust NLP.
 <br>
@@ -27,15 +27,15 @@ Thursday July 14, 2022 Pacific Time
 <br>
 12:30–&nbsp;1:30 &nbsp;&nbsp;&nbsp; Poster Session
 <br>
-1:30–2:15 &nbsp;&nbsp;&nbsp; Invited Talk: William Cohen.
+&nbsp;1:30–&nbsp;2:15 &nbsp;&nbsp;&nbsp; Invited Talk: William Cohen.
 <br>
-2:15–3:00 &nbsp;&nbsp;&nbsp; Invited Talk: Julian Eisenschlos. Efficient Methods for Learning from Tables.
+&nbsp;2:15–&nbsp;3:00 &nbsp;&nbsp;&nbsp; Invited Talk: Julian Eisenschlos. Efficient Methods for Learning from Tables.
 <br>
-3:00–4:00 &nbsp;&nbsp;&nbsp; Shared Task Session
+&nbsp;3:00–&nbsp;4:00 &nbsp;&nbsp;&nbsp; Shared Task Session
 <br>
-4:00–4:45 &nbsp;&nbsp;&nbsp; Invited Talk: Luna Dong. Next-Generation Intelligent Assistants for AR/VR Devices
+&nbsp;4:00–&nbsp;4:45 &nbsp;&nbsp;&nbsp; Invited Talk: Luna Dong. Next-Generation Intelligent Assistants for AR/VR Devices
 <br>
-4:45–5:00 &nbsp;&nbsp;&nbsp; Closing Remark
+&nbsp;4:45–&nbsp;5:00 &nbsp;&nbsp;&nbsp; Closing Remark
 <br>
 
 ## Invited Speakers
