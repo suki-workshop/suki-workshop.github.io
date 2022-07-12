@@ -8,35 +8,30 @@ collection: pages_2022
 ## Program Schedule
 Workshop Location: 502 - Cowlitz.
 <br>
-Poster Session Location: Regency A & B.
+Poster Session Location: Regency A & B and Gather.town.
 <br><br>
-Thursday July 14, 2022 Pacific Time
-<!-- TBD -->
-<br>
-08:45–09:00 &nbsp;&nbsp;&nbsp; Opening Remark
-<br>
-09:00–09:45 &nbsp;&nbsp;&nbsp; Invited Talk: Heng Ji. Schema-guided Event Prediction.
-<br>
-09:45–10:30 &nbsp;&nbsp;&nbsp; Invited Talk: Percy Liang. Beyond Autoregressive Language Models: Retrieval, Diffusion, and Modularity.
-<br>
-10:30–11:15 &nbsp;&nbsp;&nbsp; Invited Talk: Jonathan Berant. The Atoms of Knowledge Integration in Question Answering
-<br>
-11:15–12:00 &nbsp;&nbsp;&nbsp; Invited Talk: Hanna Hajishirzi. Toward Knowledge-Rich and Robust NLP.
-<br>
-12:00–12:30 &nbsp;&nbsp;&nbsp; Lunch Break
-<br>
-12:30–&nbsp;1:30 &nbsp;&nbsp;&nbsp; Poster Session
-<br>
-&nbsp;1:30–&nbsp;2:15 &nbsp;&nbsp;&nbsp; Invited Talk: William Cohen.
-<br>
-&nbsp;2:15–&nbsp;3:00 &nbsp;&nbsp;&nbsp; Invited Talk: Julian Eisenschlos. Efficient Methods for Learning from Tables.
-<br>
-&nbsp;3:00–&nbsp;4:00 &nbsp;&nbsp;&nbsp; Shared Task Session
-<br>
-&nbsp;4:00–&nbsp;4:45 &nbsp;&nbsp;&nbsp; Invited Talk: Luna Dong. Next-Generation Intelligent Assistants for AR/VR Devices
-<br>
-&nbsp;4:45–&nbsp;5:00 &nbsp;&nbsp;&nbsp; Closing Remark
-<br>
+Thursday July 14, 2022 Pacific Daylight Time
+
+<ul>
+<li> 08:45–09:00 - Opening Remark </li>
+<li> 09:00–09:45 - Invited Talk: Heng Ji. Schema-guided Event Prediction. </li>
+<li> 09:45–10:30 - Invited Talk: Percy Liang. Beyond Autoregressive Language Models: Retrieval, Diffusion, and Modularity. </li>
+<li> 10:30–11:15 - Invited Talk: Jonathan Berant. The Atoms of Knowledge Integration in Question Answering. </li>
+<li> 11:15–12:00 - Invited Talk: Hanna Hajishirzi. Toward Knowledge-Rich and Robust NLP. </li>
+<li> 12:00–12:30 - Lunch Break </li>
+<li> 12:30–01:30 - Poster Session (Location: Regency A & B and Gather.town.) </li>
+<li> 01:30–02:15 - Invited Talk: William Cohen. </li>
+<li> 02:15–03:00 - Invited Talk: Julian Eisenschlos. Efficient Methods for Learning from Tables. </li>
+<li> 03:00–04:00 - Shared Task Session </li>
+  <ul>
+    <li> Champion: team Ant Risk AI from Ant Group </li>
+    <li> Runner-up: team [MASK] from Nanjing University </li>
+    <li> Honorable Mention: team TabT5 from Google Research </li>
+    <li> Honorable Mention: team LYZD-FinTech </li>
+  </ul>
+<li> 04:00–04:45 - Invited Talk: Luna Dong. Next-Generation Intelligent Assistants for AR/VR Devices. </li>
+<li> 04:45–05:00 - Closing Remark </li>
+</ul>
 
 ## Invited Speakers
 
