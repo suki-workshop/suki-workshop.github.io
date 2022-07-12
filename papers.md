@@ -8,8 +8,7 @@ permalink: /papers
 <!-- Congratulations to all of the authors, and thanks to all of our reviewers for their hard work!
 A draft proceedings is available [here](assets/book.pdf). -->
 
-### Accepted Papers
-
+<!-- ### Accepted Papers -->
 
 [Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations](/assets/paper/1.pdf)<br>
 Zhen Han, Ruotong Liao, Beiyan Liu, Yao Zhang, Zifeng Ding, Jindong Gu, Heinz Koeppl, Hinrich Schuetze, Volker Tresp
