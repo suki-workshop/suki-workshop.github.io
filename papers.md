@@ -51,7 +51,7 @@ Zhiruo Wang, Zhengbao Jiang, Eric Nyberg, Graham Neubig
 <br>
 
 [Reasoning Like Program Executors](/assets/paper/16.pdf)<br>
-Xinyu Pi, Qian Liu, Bei Chen, Morteza Ziyadi, Zeqi Lin, Yan Gao, Qiang Fu, Jian-Guang Lou, Weizhu Chen<br><br> 
+Xinyu Pi, Qian Liu, Bei Chen, Morteza Ziyadi, Zeqi Lin, Yan Gao, Qiang Fu, Jian-Guang Lou, Weizhu Chen<br>
 
 [Table-To-Text generation and pre-training with TabT5](/assets/paper/17.pdf)<br>
 Ewa Andrejczuk, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Yasemin Altun<br>
