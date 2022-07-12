@@ -20,7 +20,7 @@ Thursday July 14, 2022 Pacific Daylight Time
 <li> 11:15–12:00 - Invited Talk: Hanna Hajishirzi. Toward Knowledge-Rich and Robust NLP. </li>
 <li> 12:00–12:30 - Lunch Break </li>
 <li> 12:30–01:30 - Poster Session (Location: Regency A & B and Gather.town.) </li>
-<li> 01:30–02:15 - Invited Talk: William Cohen. </li>
+<li> 01:30–02:15 - Invited Talk: William Cohen. QA Is the New KR: Question-Answer Pairs as Knowledge Bases. </li>
 <li> 02:15–03:00 - Invited Talk: Julian Eisenschlos. Efficient Methods for Learning from Tables. </li>
 <li> 03:00–04:00 - Shared Task Session </li>
   <ul>
