@@ -15,7 +15,7 @@ Thursday July 14, 2022 Pacific Daylight Time
 <ul>
 <li> 08:45–09:00 - Opening Remark </li>
 <li> 09:00–09:45 - Invited Talk: Heng Ji. Schema-guided Event Prediction. </li>
-<li> 09:45–10:30 - Invited Talk: Percy Liang. Beyond Autoregressive Language Models: Retrieval, Diffusion, and Modularity. </li>
+<li> 09:45–10:30 - Invited Talk: Percy Liang. Entities in the World are Closer than they Appear: Pre-training with Language and Knowledge Graphs. </li>
 <li> 10:30–11:15 - Invited Talk: Jonathan Berant. The Atoms of Knowledge Integration in Question Answering. </li>
 <li> 11:15–12:00 - Invited Talk: Hanna Hajishirzi. Toward Knowledge-Rich and Robust NLP. </li>
 <li> 12:00–12:30 - Lunch Break </li>
