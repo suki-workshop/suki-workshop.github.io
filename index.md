@@ -6,7 +6,7 @@ collection: pages_2022
 ---
 
 ## Program Schedule
-Workshop Location: 502 - Cowlitz.
+Workshop Location: 502 - Cowlitz <a href="https://docs.google.com/spreadsheets/d/1qpQN7EduK5fN8UBMDU-abGAybilBu8CJKzPDv8wHAC0/edit#gid=0">slides</a>
 <br>
 Poster Session Location: Regency A & B and Gather.town.
 <br><br>
