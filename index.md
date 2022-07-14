@@ -48,7 +48,7 @@ Thursday July 14, 2022 Pacific Daylight Time
       <td><a href="http://www.cs.cmu.edu/~wcohen/">William Cohen (Google)</a></td>
       <td><a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji (UIUC)</a></td>
       <td><a href="https://lunadong.com/">Luna Dong (Facebook)</a></td>
-      <td><a href="http://www.cs.tau.ac.il/~joberant/"> Jonathan Berant (Tel Aviv University/AI2)</a></td>
+      <td><a href="http://www.cs.tau.ac.il/~joberant/"> Jonathan Berant (Tel Aviv University)</a></td>
       <!-- <td><a href="https://cs.stanford.edu/people/jure/">Jure Leskovec (Stanford)</a></td> -->
     </tr>
     <tr>
